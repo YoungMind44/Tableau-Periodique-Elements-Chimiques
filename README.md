@@ -1,5 +1,5 @@
 # Tableau-Périodique/Eléments-Chimiques
-Ceci est un projet pour la création d'un tableau périodique à l'accès automatique et rapide.
+Ceci est un projet pour la création d'un tableau périodique à accès automatique et rapide.
 
 Si vous êtes francophones restez ici .
 
